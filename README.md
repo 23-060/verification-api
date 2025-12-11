@@ -210,13 +210,3 @@ payload: { report_id, user_id, status }
 * API sudah memakai ES Modules
 * Model Sequelize memakai `underscored: true`
 
----
-
-Jika kamu mau, aku bisa buatkan:
-
-✅ Badge CI/CD
-✅ Dokumentasi API dalam format Swagger
-✅ Contoh request Thunder Client JSON export
-✅ Migrasi Sequelize otomatis
-
-Tinggal bilang: **“Tambahkan dokumentasi Swagger”** atau apa yang mau ditambah.
