@@ -21,7 +21,7 @@ API ini digunakan untuk mengelola proses **verifikasi laporan** dalam sistem Los
 # 📦 **1. Cara Clone Project**
 
 ```bash
-git clone https://github.com/USERNAME/verification-api.git
+git clone https://github.com/23-060/verification-api.git
 cd verification-api
 ```
 
