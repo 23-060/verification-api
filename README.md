@@ -36,9 +36,9 @@ npm install
 ---
 
 # ⚙️ **3. Konfigurasi Environment (.env)**
-
+```bash
 cp .env.example .env
-
+```
 ---
 
 # 🗂️ **4. Struktur Folder**
